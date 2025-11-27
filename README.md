@@ -1,3 +1,3 @@
 # Test Link
 
-[mgmaglo.netlify.app](https://mgmaglo.netlify.app/sign-in)
+[mgmaglo.netlify.app](https://mgmaglo.netlify.app)
